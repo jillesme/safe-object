@@ -1,6 +1,6 @@
 {
   "name": "safe-object",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Safe object property access for everyone!",
   "main": "index.js",
   "scripts": {
