@@ -1,0 +1,19 @@
+{
+  "name": "safe-object",
+  "version": "0.1.0",
+  "description": "Safe object property access for everyone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jillesme/safe-object"
+    },
+  "keywords": [
+    "safe",
+    "object"
+  ],
+  "author": "Jilles Soeters <info@jilles.me>",
+  "license": "MIT"
+}
