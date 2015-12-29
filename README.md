@@ -29,7 +29,7 @@ if (so(obj, 'user.details.age')) {
 }
 ```
 
-Which is a lot cleaner than a plain javascript safe approach:
+Which is a lot cleaner than a plain JavaScript safe approach:
 
 ``` javascript
 // works, but ugly
